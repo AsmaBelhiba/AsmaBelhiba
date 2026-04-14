@@ -1,4 +1,4 @@
-# Hi, I'm Asma Benhiba
+# Hi, I'm Asma Belhiba
 
 4th-year Software Engineering student · Data Science & AI @ Sesame University · Tunis, Tunisia
 
