@@ -2,7 +2,7 @@
 
 4th-year Software Engineering student · Data Science & AI @ Sesame University · Tunis, Tunisia
 
-I build intelligent systems and real-world applications — from RL-powered pricing APIs to full-stack web platforms. I'm passionate about machine learning research, backend engineering, and bridging the gap between AI models and production systems.
+I build intelligent systems and real-world applications, from RL-powered pricing APIs to full-stack web platforms. I'm passionate about machine learning research, backend engineering, and bridging the gap between AI models and production systems.
 
 ## What I work with
 
